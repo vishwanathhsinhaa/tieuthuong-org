@@ -8,10 +8,9 @@ find some social network platform to investigate
 = Details =
 
 == 1. criteria ==
-
-* easy to configure
-* easy to deploy
-* modern ui
+  * easy to configure
+  * easy to deploy
+  * modern ui
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
