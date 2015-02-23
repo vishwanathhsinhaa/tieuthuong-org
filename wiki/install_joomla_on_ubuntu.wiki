@@ -1,4 +1,4 @@
-#How to install joomla on ubuntu
+#Summary How to install joomla on ubuntu
 
 = Introduction =
 
