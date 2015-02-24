@@ -34,8 +34,11 @@ Follow the standard installation instructions above
 == install the plug in ==
 
 1. Download the plug in
+
 2. unzip
+
 3.  copy to `mod` folder
+
 {{{
 sudo cp -avr profile_manager /var/www/elgg/mod
 }}}
