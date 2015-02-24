@@ -3,7 +3,12 @@
 = Introduction =
 
 1. follow instruction here:
-[http://tecadmin.net/install-elgg-social-networking-platform-in-centos-rhel/]
+{{{
+   Ubuntu 14.04
+   apache2
+}}}
+
+[http://ubuntuvps.net/how-to-install-and-configure-elgg-on-your-ubuntu-or-debian-server-2/]
 
 2. rewrite test fail:
 
