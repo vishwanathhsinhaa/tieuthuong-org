@@ -2,7 +2,7 @@
 
 = Introduction =
 
-translate to vietnamese: BASE - p11 - 10:19 24022015
+translate to vietnamese: BASE - p11 - 10:19 24022015 in localhost version
 
 
 = Details =
