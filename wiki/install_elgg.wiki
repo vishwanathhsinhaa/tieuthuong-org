@@ -30,6 +30,16 @@ Restart Apache:
 Follow the standard installation instructions above
 = Details =
 
+
+== install the plug in ==
+
+1. Download the plug in
+2. unzip
+3.  copy to `mod` folder
+{{{
+sudo cp -avr profile_manager /var/www/elgg/mod
+}}}
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
