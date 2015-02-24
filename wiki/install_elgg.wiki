@@ -5,7 +5,9 @@
 1. follow instruction here:
 [http://tecadmin.net/install-elgg-social-networking-platform-in-centos-rhel/]
 
+2. rewrite test fail:
 
+[http://docs.elgg.org/wiki/Rewrite_test_failed]
 = Details =
 
 Add your content here.  Format your content with:
