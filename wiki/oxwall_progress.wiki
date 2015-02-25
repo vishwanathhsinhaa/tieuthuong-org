@@ -13,6 +13,9 @@ translate to vietnamese: BASE - p11 - 10:19 24022015 in localhost version
 
 [http://vnwebmaster.com/lap-trinh-web-voi-php/6443-viet-mot-ung-dung-app-facebook-bang-php-phan-1-dang-ky-app.html]
 
+[https://docs.oxwall.org/plugin-tuts:facebook-connect]
+
+
 2. put app id and app secret to plug in facebook connect
 
 Add your content here.  Format your content with:
