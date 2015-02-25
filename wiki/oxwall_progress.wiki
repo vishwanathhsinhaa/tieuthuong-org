@@ -4,6 +4,7 @@
 
 translate to vietnamese: BASE - p11 - 10:19 24022015 in localhost version
 
+translate to vietnamese: BASE - p26 - 16:19 25022015 in localhost version
 
 = Details =
 
