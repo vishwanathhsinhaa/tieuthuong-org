@@ -7,6 +7,8 @@ Add your content here.
 
 {http://thachpham.com/wordpress/wordpress-development/tich-hop-ngan-luong-va-bao-kim-vao-wordpress-su-dung-custom-field.html]
 
+[http://thachpham.com/wordpress/wp-plugin/plugin-tao-web-ban-hang.html]
+
 = Details =
 
 Add your content here.  Format your content with:
